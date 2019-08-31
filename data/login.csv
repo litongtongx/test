@@ -1,0 +1,6 @@
+page,step,action,data
+浏览器,chrome,打开,https://www.xueqingyun.com/
+登录,用户名,输入,boweifengbj
+登录,密码,输入,boweifeng
+登录,登录,点击,
+主页,推出,点击,
